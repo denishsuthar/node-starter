@@ -1,5 +1,5 @@
 {
-  "name": "@denishsuthar/node-starter",
+  "name": "@denishsuthar/node",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
