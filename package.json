@@ -1,6 +1,6 @@
 {
-  "name": "@denishsuthar/node",
-  "version": "1.0.1",
+  "name": "@denishsuthar/node-starter",
+  "version": "1.0.2",
   "description": "",
   "main": "server.js",
   "type": "module",
