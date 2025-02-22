@@ -25,5 +25,5 @@ console.log(`Installing dependencies for denish starter template`);
 const installDeps = runCommand(installDepsCommand)
 if(!installDeps) process.exit(-1)
 
-console.log(`Done....Start Backend using below command`);
+console.log(`Done....Denish Template has been installed. Start Backend using below command`);
 console.log(`cd ${repoName} && npm start`);
